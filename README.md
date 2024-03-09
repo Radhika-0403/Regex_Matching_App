@@ -41,4 +41,5 @@ Regular expressions, often abbreviated as regex or regexp, are sequences of char
 
 *Access your app using the public IP or domain.
 
-![Regex_Matching](https://imgur.com/a/I2CWZz3)
+<a href="https://imgur.com/a/I2CWZz3"><img src="https://imgur.com/a/I2CWZz3" alt="Alt Text"></a>
+
