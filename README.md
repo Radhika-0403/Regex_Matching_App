@@ -42,7 +42,7 @@ Regular expressions, often abbreviated as regex or regexp, are sequences of char
 *Access your app using the public IP or domain.
 
 
-Check my website at: http://35.170.248.220:5000/
+Check my website at: http://3.87.2.66:5000/
 
 
 
